@@ -1,0 +1,2 @@
+def getRandomNumber():
+    return
